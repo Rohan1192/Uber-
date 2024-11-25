@@ -30,6 +30,8 @@ This project focuses on performing comprehensive data analytics on Uber datasets
 ## Data Model
 ![Uber Data Model](https://github.com/user-attachments/assets/db54a2b0-beb5-4873-8cca-3db6888f63dd)
 
+## Data Set Used
+https://drive.google.com/file/d/1bwnfMOaz-nyqHQyAmu1l2MlAiUC4YZPI/view?usp=sharing
 ## How to Use  
 1. Clone this repository:  
    ```bash
