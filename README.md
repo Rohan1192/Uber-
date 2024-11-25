@@ -33,7 +33,6 @@ This project focuses on performing comprehensive data analytics on Uber datasets
 ## How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
-
+   git clone [https://github.com/your-repo-name.git](https://github.com/Rohan1192/Uber-.git)
+   
 
