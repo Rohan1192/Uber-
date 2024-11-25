@@ -29,6 +29,8 @@ This project focuses on performing comprehensive data analytics on Uber datasets
 4. **Visualization:** Insights are presented through interactive dashboards in Looker Studio.
 ## Data Model
 ![Uber Data Model](https://github.com/user-attachments/assets/db54a2b0-beb5-4873-8cca-3db6888f63dd)
+## Data Pipeline
+![Uber Data Model](https://github.com/user-attachments/assets/b3cfb83a-6fb4-4781-ba91-5089b52eb7ed)
 
 ## Data Set Used
 https://drive.google.com/file/d/1bwnfMOaz-nyqHQyAmu1l2MlAiUC4YZPI/view?usp=sharing
